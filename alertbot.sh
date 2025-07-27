@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #telegram alert token & id
-BOT_TOKEN="8275411354:AAHM6n6pNlg1TRseFCTXKQvn_F2adj85uck"
-CHAT_ID="6545050047"
+BOT_TOKEN="001123456789"
+CHAT_ID="01234567890"
 
 #telegram alert bhejne ka funcktion
 
@@ -20,7 +20,7 @@ echo "AlertBot ran at $(date)" >> /home/ritik/alertbot-cron.log
 
 #Email Address
 
-TO="rajeshkumarbcablogger@gmail.com"
+TO="example@gmail.com"
 SUBJECT="System Alert From AlertBot"
 BODY=""
 
