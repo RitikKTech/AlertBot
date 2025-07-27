@@ -1,0 +1,77 @@
+AlertBot ran at Sat Jul 26 07:37:39 PM IST 2025
+AlertBot ran at Sat Jul 26 07:42:01 PM IST 2025
+AlertBot ran at Sat Jul 26 07:44:01 PM IST 2025
+AlertBot ran at Sat Jul 26 07:46:01 PM IST 2025
+AlertBot ran at Sat Jul 26 07:48:01 PM IST 2025
+AlertBot ran at Sat Jul 26 07:50:01 PM IST 2025
+AlertBot ran at Sat Jul 26 07:52:01 PM IST 2025
+HIGH CPU USAGE: 70%\nHIGH RAM USAGE: 50.00%\nDISK ALMOST FULL: 33%\n
+AlertBot ran at Sat Jul 26 07:54:01 PM IST 2025
+HIGH CPU USAGE: 39.1%\nHIGH RAM USAGE: 50.48%\nDISK ALMOST FULL: 33%\n
+AlertBot ran at Sat Jul 26 07:56:01 PM IST 2025
+HIGH CPU USAGE: 79.2%\nHIGH RAM USAGE: 54.48%\nDISK ALMOST FULL: 33%\n
+AlertBot ran at Sat Jul 26 07:58:01 PM IST 2025
+HIGH CPU USAGE: 71.9%
+HIGH RAM USAGE: 51.16%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sat Jul 26 07:58:09 PM IST 2025
+HIGH CPU USAGE: 41.4%
+HIGH RAM USAGE: 51.39%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sat Jul 26 08:00:01 PM IST 2025
+HIGH CPU USAGE: 70%
+HIGH RAM USAGE: 51.30%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 03:34:44 PM IST 2025
+HIGH CPU USAGE: 10.2%
+HIGH RAM USAGE: 44.42%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 03:38:34 PM IST 2025
+HIGH CPU USAGE: 62.5%
+HIGH RAM USAGE: 44.65%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 04:13:02 PM IST 2025
+HIGH CPU USAGE: 42.4%
+HIGH RAM USAGE: 48.65%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 04:34:01 PM IST 2025
+AlertBot ran at Sun Jul 27 04:36:02 PM IST 2025
+AlertBot ran at Sun Jul 27 04:36:14 PM IST 2025
+{"ok":true,"result":{"message_id":7,"from":{"id":8275411354,"is_bot":true,"first_name":"AlertBot_Ritik_Bot","username":"AlertBot_Ritik_Bot"},"chat":{"id":6545050047,"first_name":".","username":"ritikstillalive","type":"private"},"date":1753614382,"text":"HIGH CPU USAGE: 17.5%\\nHIGH RAM USAGE: 46.33%\\nDISK ALMOST FULL: 33%\\n"}}HIGH CPU USAGE: 17.5%
+HIGH RAM USAGE: 46.33%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 04:38:01 PM IST 2025
+{"ok":true,"result":{"message_id":8,"from":{"id":8275411354,"is_bot":true,"first_name":"AlertBot_Ritik_Bot","username":"AlertBot_Ritik_Bot"},"chat":{"id":6545050047,"first_name":".","username":"ritikstillalive","type":"private"},"date":1753614503,"text":"HIGH CPU USAGE: 68.8%\\nHIGH RAM USAGE: 47.17%\\nDISK ALMOST FULL: 33%\\n"}}HIGH CPU USAGE: 68.8%
+HIGH RAM USAGE: 47.17%
+DISK ALMOST FULL: 33%
+
+HIGH CPU USAGE: 26.2%
+HIGH RAM USAGE: 47.24%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 04:40:01 PM IST 2025
+{"ok":true,"result":{"message_id":10,"from":{"id":8275411354,"is_bot":true,"first_name":"AlertBot_Ritik_Bot","username":"AlertBot_Ritik_Bot"},"chat":{"id":6545050047,"first_name":".","username":"ritikstillalive","type":"private"},"date":1753614622,"text":"HIGH CPU USAGE: 23.3%\\nHIGH RAM USAGE: 48.80%\\nDISK ALMOST FULL: 33%\\n"}}HIGH CPU USAGE: 23.3%
+HIGH RAM USAGE: 48.80%
+DISK ALMOST FULL: 33%
+
+{"ok":true,"result":{"message_id":11,"from":{"id":8275411354,"is_bot":true,"first_name":"AlertBot_Ritik_Bot","username":"AlertBot_Ritik_Bot"},"chat":{"id":6545050047,"first_name":".","username":"ritikstillalive","type":"private"},"date":1753614676,"text":"HIGH CPU USAGE: 65%\\nHIGH RAM USAGE: 47.69%\\nDISK ALMOST FULL: 33%\\n"}}HIGH CPU USAGE: 65%
+HIGH RAM USAGE: 47.69%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 04:42:02 PM IST 2025
+{"ok":true,"result":{"message_id":12,"from":{"id":8275411354,"is_bot":true,"first_name":"AlertBot_Ritik_Bot","username":"AlertBot_Ritik_Bot"},"chat":{"id":6545050047,"first_name":".","username":"ritikstillalive","type":"private"},"date":1753614727,"text":"HIGH CPU USAGE: 15.8%\\nHIGH RAM USAGE: 47.62%\\nDISK ALMOST FULL: 33%\\n"}}HIGH CPU USAGE: 15.8%
+HIGH RAM USAGE: 47.62%
+DISK ALMOST FULL: 33%
+
+AlertBot ran at Sun Jul 27 04:44:01 PM IST 2025
+{"ok":true,"result":{"message_id":13,"from":{"id":8275411354,"is_bot":true,"first_name":"AlertBot_Ritik_Bot","username":"AlertBot_Ritik_Bot"},"chat":{"id":6545050047,"first_name":".","username":"ritikstillalive","type":"private"},"date":1753614847,"text":"HIGH CPU USAGE: 19.5%\\nHIGH RAM USAGE: 48.40%\\nDISK ALMOST FULL: 33%\\n"}}HIGH CPU USAGE: 19.5%
+HIGH RAM USAGE: 48.40%
+DISK ALMOST FULL: 33%
+
